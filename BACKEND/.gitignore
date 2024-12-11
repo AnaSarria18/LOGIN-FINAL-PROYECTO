@@ -77,7 +77,7 @@ Historial de respuestas de nodo .node
 .integridad del hilo
 
 # Archivos de variables de entorno dotenv
-.env
+
 .env.desarrollo.local
 .env.prueba.local
 .env.producción.local
